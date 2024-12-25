@@ -65,4 +65,4 @@ This project is licensed under the [Custom Proprietary Software License](LICENSE
 
 (c) 2024 [Finbarrs Oketunji](https://finbarrs.eu). All Rights Reserved.
 
-> Rewsury® is a registered trade mark and intellectual property (IP) belonging to Abíọ̀dún F. Ọkẹ́túnjí.
+> Rewsury® is a registered trade mark and its intellectual property (IP) belong to Abíọ̀dún F. Ọkẹ́túnjí.
