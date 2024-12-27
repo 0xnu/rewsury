@@ -67,3 +67,5 @@ This project is licensed under the [Custom Proprietary Software License](LICENSE
 (c) 2024 [Finbarrs Oketunji](https://finbarrs.eu). All Rights Reserved.
 
 > Rewsury® is a registered trademark. Its intellectual property (IP) and database belong to Abíọ̀dún F. Ọkẹ́túnjí.
+
+> Fun & Interesting Facts: I registered the trademark after visiting [Shrewsbury](https://en.wikipedia.org/wiki/Shrewsbury). 🇬🇧
