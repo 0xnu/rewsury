@@ -7,7 +7,7 @@ It helps users interact with multiple AI models directly through [Telegram](http
 ### Features
 
 - Free to use
-- 5 messages per day
+- 20 messages per day
 - Choose from four AI models:
   - OpenAI GPT-4
   - Anthropic Claude
