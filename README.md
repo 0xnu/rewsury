@@ -8,13 +8,14 @@ It helps users interact with multiple AI models directly through [Telegram](http
 
 - Free to use
 - 20 messages per day
-- Choose from six AI models:
+- Choose from seven AI models:
   - OpenAI GPT-4
   - Anthropic Claude
   - DeepSeek Chat
   - Mistral AI
   - xAI Grok-2
   - Cohere Command
+  - DALLE-3
 - Image Generation with DALL-E 3 (Two images every four hours)
 - Message counter resets daily at midnight UTC
 
