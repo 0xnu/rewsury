@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.3 - 2024-12-28 - @0xnu
+* Cohere Command added
+
 ## 1.0.2 - 2024-12-27 - @0xnu
 * Grok-2 added
 * Mistral added
