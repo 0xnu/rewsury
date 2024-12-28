@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.5 - 2024-12-28 - @0xnu
+* Algorithm refinements
+
 ## 1.0.4 - 2024-12-28 - @0xnu
 * Image Generation with DALL-E 3 added
 
