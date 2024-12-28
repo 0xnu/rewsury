@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.4 - 2024-12-28 - @0xnu
+* Image Generation with DALL-E 3 added
+
 ## 1.0.3 - 2024-12-28 - @0xnu
 * Cohere Command added
 
