@@ -2,7 +2,7 @@
 
 It helps users interact with multiple AI models directly through [Telegram](https://telegram.org/), particularly large language models like DeepSeek, Claude, GPT, Grok, Cohere, DALL.E, Llama 3.3, and Mistral.
 
-[➡️ Start chatting with Rewsury®](https://t.me/rewsury_bot)
+[➡️ Start chatting with Rewsury®](https://safo.dev/rewsury?utm_source=github&utm_medium=web&utm_campaign=usage&utm_id=208317)
 
 ### Features
 
@@ -22,8 +22,8 @@ It helps users interact with multiple AI models directly through [Telegram](http
 
 ### Getting Started
 
-- Click this link [➡️ Start chatting with Rewsury®](https://t.me/rewsury_bot)
-- In Telegram, press `Start` button or type `/start`
+- Click this link [➡️ Start chatting with Rewsury®](https://safo.dev/rewsury?utm_source=github&utm_medium=web&utm_campaign=usage&utm_id=208317)
+- In Telegram, press the `Start` button or type `/start`
 - Begin chatting with the default model (Claude)
 
 ### Changing Models
