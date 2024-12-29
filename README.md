@@ -12,12 +12,14 @@ It helps users interact with multiple AI models directly through [Telegram](http
   - OpenAI GPT-4
   - Anthropic Claude
   - DeepSeek Chat
+  - Llama 3.3
   - Mistral AI
   - xAI Grok-2
   - Cohere Command
   - DALL.E-3
-  - Llama 3.3
-- Image Generation with DALL.E 3 (Two images every four hours)
+- Image Generation with DALL.E 3 (Four images every four hours)
+- Commercial use of generated images
+- The dimensions of the image are 1024x1024 pixels, with an aspect ratio of 1:1
 - Message counter resets daily at midnight UTC
 
 ### Getting Started
