@@ -21,7 +21,8 @@ It helps users interact with multiple AI models directly through [Telegram](http
 - Image Generation with DALL.E and SDXL (Four images every four hours)
 - Commercial use of generated images
 - The dimensions of the image are 1024x1024 pixels, with an aspect ratio of 1:1
-- Academic Research Assistant with arXiv
+- Academic Research Assistant: For recent papers with `Relevance Score`, select `arXiv` and ask for papers based on topic of interest
+- Article and News Summarizer: Send a link to an article or news and ask the model (except `arXiv`, `DALL.E`, and `SDXL`) to summarize it
 - Message counter resets daily at midnight UTC
 
 ### Getting Started

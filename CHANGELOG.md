@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.9 - 2024-12-30 - @0xnu
+* Academic Research Assistant `Relevance Score` feature added
+* `Article and News Summarizer` support for models except arXiv, DALL.E, and SDXL
+
 ## 1.0.8 - 2024-12-30 - @0xnu
 * arXiv Proprietary Technology added
 
