@@ -1,9 +1,9 @@
 # Changelog
 
-## 1.0.8 - 2024-12-28 - @0xnu
+## 1.0.8 - 2024-12-30 - @0xnu
 * arXiv Proprietary Technology added
 
-## 1.0.7 - 2024-12-28 - @0xnu
+## 1.0.7 - 2024-12-30 - @0xnu
 * Image Generation with Stable Diffusion XL (SDXL) added
 
 ## 1.0.6 - 2024-12-28 - @0xnu
