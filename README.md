@@ -1,6 +1,6 @@
 ## Rewsury®
 
-It helps users interact with multiple AI models directly through [Telegram](https://telegram.org/), particularly large language models like DeepSeek, Claude, GPT, Grok, Cohere, DALL.E, Llama 3.3, and Mistral.
+It helps users interact with multiple AI models directly through [Telegram](https://telegram.org/), particularly large language models like DeepSeek, Claude, GPT, Grok, Cohere, DALL.E, SDXL, Llama 3.3, and Mistral.
 
 [➡️ Start chatting with Rewsury®](https://safo.dev/rewsury?utm_source=github&utm_medium=web&utm_campaign=usage&utm_id=208317)
 
@@ -8,7 +8,7 @@ It helps users interact with multiple AI models directly through [Telegram](http
 
 - Free to use
 - 20 messages per day
-- Choose from eight AI models:
+- Choose from nine AI models:
   - OpenAI GPT-4
   - Anthropic Claude
   - DeepSeek Chat
@@ -16,8 +16,9 @@ It helps users interact with multiple AI models directly through [Telegram](http
   - Mistral AI
   - xAI Grok-2
   - Cohere Command
-  - DALL.E-3
-- Image Generation with DALL.E 3 (Four images every four hours)
+  - DALL.E
+  - Stable Diffusion XL (SDXL)
+- Image Generation with DALL.E and SDXL (Four images every four hours)
 - Commercial use of generated images
 - The dimensions of the image are 1024x1024 pixels, with an aspect ratio of 1:1
 - Message counter resets daily at midnight UTC
@@ -62,10 +63,10 @@ This project is licensed under the [Custom Proprietary Software License](LICENSE
   author       = {Oketunji, A.F.},
   title        = {Rewsury},
   year         = 2024,
-  version      = {1.0.6},
+  version      = {1.0.7},
   publisher    = {Finbarrs Oketunji},
-  doi          = {10.5281/zenodo.14567649},
-  url          = {https://doi.org/10.5281/zenodo.14567649}
+  doi          = {10.5281/zenodo.14574682},
+  url          = {https://doi.org/10.5281/zenodo.14574682}
 }
 ```
 

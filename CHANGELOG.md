@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.7 - 2024-12-28 - @0xnu
+* Image Generation with Stable Diffusion XL (SDXL) added
+
 ## 1.0.6 - 2024-12-28 - @0xnu
 * Llama 3.3 added
 
