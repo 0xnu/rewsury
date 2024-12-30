@@ -21,6 +21,7 @@ It helps users interact with multiple AI models directly through [Telegram](http
 - Image Generation with DALL.E and SDXL (Four images every four hours)
 - Commercial use of generated images
 - The dimensions of the image are 1024x1024 pixels, with an aspect ratio of 1:1
+- Academic Research Assistant with arXiv
 - Message counter resets daily at midnight UTC
 
 ### Getting Started
@@ -63,10 +64,10 @@ This project is licensed under the [Custom Proprietary Software License](LICENSE
   author       = {Oketunji, A.F.},
   title        = {Rewsury},
   year         = 2024,
-  version      = {1.0.7},
+  version      = {1.0.8},
   publisher    = {Finbarrs Oketunji},
-  doi          = {10.5281/zenodo.14574682},
-  url          = {https://doi.org/10.5281/zenodo.14574682}
+  doi          = {10.5281/zenodo.14577574},
+  url          = {https://doi.org/10.5281/zenodo.14577574}
 }
 ```
 
