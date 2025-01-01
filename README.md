@@ -23,6 +23,7 @@ It helps users interact with multiple AI models directly through [Telegram](http
 - The dimensions of the image are 1024x1024 pixels, with an aspect ratio of 1:1
 - Academic Research Assistant: For recent papers with `Relevance Score`, select `arXiv` and ask for papers based on topic of interest
 - Article and News Summarizer: Send a link to an article or news and ask the model (except `arXiv`, `DALL.E`, and `SDXL`) to summarize it
+- Language Translation: Translate words and phrases with a model (except `arXiv`, `DALL.E`, and `SDXL`)
 - Message counter resets daily at midnight UTC
 
 ### Getting Started
