@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.1 - 2025-01-11 - @0xnu
+* Database enhancements
+
 ## 1.1.0 - 2025-01-01 - @0xnu
 * `Language Translation` support for models except arXiv, DALL.E, and SDXL
 

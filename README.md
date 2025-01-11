@@ -65,17 +65,17 @@ This project is licensed under the [Custom Proprietary Software License](LICENSE
 @misc{rewsuryafo2024,
   author       = {Oketunji, A.F.},
   title        = {Rewsury},
-  year         = 2024,
-  version      = {1.0.8},
+  year         = 2024-2025,
+  version      = {1.1.1},
   publisher    = {Finbarrs Oketunji},
-  doi          = {10.5281/zenodo.14577574},
-  url          = {https://doi.org/10.5281/zenodo.14577574}
+  doi          = {10.5281/zenodo.14632113},
+  url          = {https://doi.org/10.5281/zenodo.14632113}
 }
 ```
 
 ### Copyright
 
-(c) 2024 [Finbarrs Oketunji](https://finbarrs.eu). All Rights Reserved.
+(c) 2024 - 2025 [Finbarrs Oketunji](https://finbarrs.eu). All Rights Reserved.
 
 > Rewsury® is a registered trademark. Its intellectual property (IP) and database belong to Abíọ̀dún F. Ọkẹ́túnjí.
 
