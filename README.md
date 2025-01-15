@@ -24,6 +24,7 @@ It helps users interact with multiple AI models directly through [Telegram](http
 - Academic Research Assistant: For recent papers with `Relevance Score`, select `arXiv` and ask for papers based on topic of interest
 - Article and News Summarizer: Send a link to an article or news and ask the model (except `arXiv`, `DALL.E`, and `SDXL`) to summarize it
 - Language Translation: Translate words and phrases with a model (except `arXiv`, `DALL.E`, and `SDXL`)
+- Internet Access (Search): It provides support for various search types, including text, images, news, and videos. However, to improve readability, the results are limited to five per query.
 - Message counter resets daily at midnight UTC
 
 ### Getting Started
@@ -66,10 +67,10 @@ This project is licensed under the [Custom Proprietary Software License](LICENSE
   author       = {Oketunji, A.F.},
   title        = {Rewsury},
   year         = 2024-2025,
-  version      = {1.1.1},
+  version      = {2.0.0},
   publisher    = {Finbarrs Oketunji},
-  doi          = {10.5281/zenodo.14632113},
-  url          = {https://doi.org/10.5281/zenodo.14632113}
+  doi          = {10.5281/zenodo.14659917},
+  url          = {https://doi.org/10.5281/zenodo.14659917}
 }
 ```
 

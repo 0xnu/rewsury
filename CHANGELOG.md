@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.0.0 - 2025-01-15 - @0xnu
+* Internet access with search functionality added
+
 ## 1.1.1 - 2025-01-11 - @0xnu
 * Database enhancements
 
