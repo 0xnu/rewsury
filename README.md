@@ -67,10 +67,10 @@ This project is licensed under the [Custom Proprietary Software License](LICENSE
   author       = {Oketunji, A.F.},
   title        = {Rewsury},
   year         = 2024-2025,
-  version      = {2.0.0},
+  version      = {2.0.1},
   publisher    = {Finbarrs Oketunji},
-  doi          = {10.5281/zenodo.14659917},
-  url          = {https://doi.org/10.5281/zenodo.14659917}
+  doi          = {10.5281/zenodo.14675135},
+  url          = {https://doi.org/10.5281/zenodo.14675135}
 }
 ```
 
