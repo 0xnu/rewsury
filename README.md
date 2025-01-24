@@ -1,6 +1,6 @@
 ## Rewsury®
 
-It helps users interact with multiple AI models directly through [Telegram](https://telegram.org/), particularly large language models like DeepSeek, Claude, GPT, Grok, Cohere, DALL.E, SDXL, Llama 3.3, and Mistral.
+It helps users interact with multiple AI models directly through [Telegram](https://telegram.org/), particularly large language models like DeepSeek-R1, Claude, GPT, Grok, Cohere, DALL.E, SDXL, Llama 3.3, and Mistral.
 
 [➡️ Start chatting with Rewsury®](https://safo.dev/rewsury?utm_source=github&utm_medium=web&utm_campaign=usage&utm_id=208317)
 
@@ -11,7 +11,7 @@ It helps users interact with multiple AI models directly through [Telegram](http
 - Choose from nine AI models:
   - OpenAI GPT-4
   - Anthropic Claude
-  - DeepSeek Chat
+  - DeepSeek-R1
   - Llama 3.3
   - Mistral AI
   - xAI Grok-2
@@ -67,10 +67,10 @@ This project is licensed under the [Custom Proprietary Software License](LICENSE
   author       = {Oketunji, A.F.},
   title        = {Rewsury},
   year         = 2024-2025,
-  version      = {2.0.1},
+  version      = {2.0.2},
   publisher    = {Finbarrs Oketunji},
-  doi          = {10.5281/zenodo.14675135},
-  url          = {https://doi.org/10.5281/zenodo.14675135}
+  doi          = {10.5281/zenodo.14734710},
+  url          = {https://doi.org/10.5281/zenodo.14734710}
 }
 ```
 

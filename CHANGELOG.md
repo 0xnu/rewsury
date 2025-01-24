@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.2 - 2025-01-22 - @0xnu
+* DeepSeek Service Refinements
+* Upgraded DeepSeek to [DeepSeek-R1](https://arxiv.org/abs/2501.12948)
+
 ## 2.0.1 - 2025-01-16 - @0xnu
 * Bug fixes
 * Internet access refinements
